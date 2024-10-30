@@ -95,9 +95,9 @@ export default function Header() {
                     <Link to="/docs" id="docs">
                         <span>DOCS</span>
                     </Link>
-                    <Link to="/download" id="download">
+                    <a href="https://create.roblox.com/store/asset/6372450588/Moon-Animator" id="download">
                         <span>DOWNLOAD</span>
-                    </Link>
+                    </a>
                     <Link to="/about" id="about">
                         <span>ABOUT</span>
                     </Link>
